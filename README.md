@@ -32,7 +32,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0319.gif" width="1920" height="5" /> 
 -->
 <div align="center">
-  <a href="https://github.com/ParasRupani/ParasRupani"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=200&color=2D47F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Connect+With+Me+!" alt="Typing SVG" />
+  <a href="https://github.com/ParasRupani/ParasRupani"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=2D47F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Connect+With+Me!" alt="Typing SVG" />
     </a>
 </div>
 
