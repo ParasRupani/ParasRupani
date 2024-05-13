@@ -38,11 +38,11 @@
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-Portfolio-c71610?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parasrupani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://parasmrupani.wixsite.com/skillset-studio/portfolio"><img src="https://img.shields.io/badge/-Portfolio-c71610?style=for-the-badge&logo=todoist&logoColor=white"/></a> -->
   <br>
-  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" /></a>
+  <a href="mailto:parasmrupani@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/323752259093659658"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" /></a>
   
 </div>
 
