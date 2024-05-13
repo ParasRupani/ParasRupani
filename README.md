@@ -6,7 +6,7 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=4110&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=HUNTING+%26+EXPOSING"/>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=4000&color=4C6FFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=Every+Dataset's+Story!+%F0%9F%95%B5%EF%B8%8F"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=4000&color=4C6FFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=40&lines=Every+Dataset's+Story!+%F0%9F%95%B5%EF%B8%8F"/>
   </a>
 </div>
 
