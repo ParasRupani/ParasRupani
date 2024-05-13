@@ -15,7 +15,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<!--
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
@@ -30,7 +30,7 @@
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />   <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a> |
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0319.gif" width="1920" height="5" /> 
-
+-->
 <div align="center">
   <a href="https://github.com/ParasRupani/ParasRupani"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=200&color=2D47F7&center=true&vCenter=true&random=false&width=435&height=30&lines=Connect+With+Me+!" alt="Typing SVG" />
     </a>
